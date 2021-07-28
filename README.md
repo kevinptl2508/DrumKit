@@ -1,1 +1,3 @@
 # DrumKit
+
+Created a basic Vanilla JS mini project..Press a keys displayed on screen to see JS wokring... 
